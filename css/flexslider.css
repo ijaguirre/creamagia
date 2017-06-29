@@ -312,7 +312,7 @@ html[xmlns] .slides {display: block;}
 /* Caption */
 .top_slider .slide1 {
 	height:100%;
-	background-image:url(../images/slider/slide1_bg.JPG);
+	background-image:url(../images/slider/slide1_bg.jpg);
 	background-size:cover;
 	background-attachment:fixed !important;
 }
